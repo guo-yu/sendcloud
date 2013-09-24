@@ -1,0 +1,22 @@
+{
+  "name": "sendcloud",
+  "version": "0.0.0",
+  "description": "a smart sdk of sendcloud.sohu.com",
+  "logo": "http://cdn.v2ex.com/avatar/03e3/685e/38951_large.png?m=1379987405",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/sendcloud.git"
+  },
+  "keywords": [
+    "sendcloud"
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/sendcloud/issues"
+  }
+}
